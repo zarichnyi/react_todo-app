@@ -7,6 +7,7 @@ The project was created with:
 - React
 - Hooks
 - ClassNames
+- LocalStorage
 - HTML5
 - CSS3
 
