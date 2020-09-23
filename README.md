@@ -10,7 +10,7 @@ The project was created with:
 - HTML5
 - CSS3
 
-## Description
+## Work Example
 
 ![todoapp](./description/todoapp.gif)
 ![todoedit](./description/edittodo.gif)
